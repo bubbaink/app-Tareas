@@ -83,6 +83,9 @@ module.exports = {
         })
         mostrarTareas(resultado);
         return null;
+    },
+    limpiarTareas : () => {
+        
     }
 
 }
